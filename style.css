@@ -75,3 +75,11 @@ a.button.red:hover,
     font-size: 13px;
   }
 }
+
+.archives-hero-logo {
+  display: block;
+  width: min(100%, 420px);
+  height: auto;
+  margin: 20px 0;
+  object-fit: contain;
+}
